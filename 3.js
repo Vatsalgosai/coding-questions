@@ -29,7 +29,7 @@ function tournamentWinner(competitions, results) {
   for (const [team, points] of Object.entries(teamPoints)) {
     if (points > maxPoints) {
       winner = team;
-      maxPoints = points;
+      //maxPoints = points;
     }
   }
   return winner;
