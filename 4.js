@@ -16,5 +16,4 @@ function min(coins) {
   //if we create all pairs of value then return sum + 1
   return s + 1;
 }
-
 console.log(min(coins));
