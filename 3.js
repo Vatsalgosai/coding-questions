@@ -4,7 +4,7 @@ let competitions = [
   ["Python", "html"],
 ];
 let results = [0, 0, 1];
-
+ 
 function tournamentWinner(competitions, results) {
   const teamPoints = {}; // Object to store each team's total points
 
