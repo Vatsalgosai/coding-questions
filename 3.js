@@ -1,7 +1,7 @@
 let competitions = [
-  ["html", "C#"],
+  ["Html", "C#"],
   ["C#", "Python"],
-  ["Python", "html"],
+  ["Python", "Html"],
 ];
 let results = [0, 0, 1];
  
