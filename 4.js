@@ -10,5 +10,4 @@ function min(coins) {
   }
   return currentSum + 1;
 }
-
 console.log(min(coins));
